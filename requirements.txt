@@ -1,0 +1,18 @@
+scikit-dimension
+numpy == 1.26.4
+scipy
+plotly == 5.11.0
+typing
+fitz
+beautifulsoup4
+soupsieve
+reportlab
+matplotlib
+multiprocess
+pathlib
+tqdm
+pandas
+kaleido == 0.1.0.post1
+scikit-learn
+playwright
+PyPDF2
