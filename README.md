@@ -27,7 +27,7 @@ git clone https://github.com/anonymconference-star/Bagging_for_LID_Estimation.gi
 Navigate to selected folder
 
 ```bash
-cd Bagging_for_LID
+cd Bagging_for_LID_Estimation
 ```
 
 Install requirements. Python version $\geq 3.11$ required.
